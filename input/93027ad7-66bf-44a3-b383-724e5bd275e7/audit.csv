@@ -1,0 +1,16 @@
+event,node,start,end
+form start,,1603775991431,
+question,/aX3jZYTKdzp2C85VqatBQa/point,1603775991432,1603775998831
+question,/aX3jZYTKdzp2C85VqatBQa/Introduction/iset_select,1603775998840,1603776000138
+question,/aX3jZYTKdzp2C85VqatBQa/Introduction/contact,1603776000147,1603776005549
+question,/aX3jZYTKdzp2C85VqatBQa/head_hh/hh_sex,1603776005559,1603776007472
+question,/aX3jZYTKdzp2C85VqatBQa/head_hh/hh_age,1603776007485,1603776013206
+question,/aX3jZYTKdzp2C85VqatBQa/head_hh/hh_disability,1603776013216,1603776014758
+group questions,/aX3jZYTKdzp2C85VqatBQa/hh_roster,1603776014768,1603776039946
+question,/aX3jZYTKdzp2C85VqatBQa/protection/hh_sepration,1603776039981,1603776045760
+question,/aX3jZYTKdzp2C85VqatBQa/protection/hh_breadwinner,1603776045768,1603776047049
+question,/aX3jZYTKdzp2C85VqatBQa/protection/hh_seprated_child,1603776047058,1603776048138
+end screen,,1603776048147,1603776049796
+form save,,1603776050056,
+form exit,,1603776050056,
+form finalize,,1603776050057,

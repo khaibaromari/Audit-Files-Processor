@@ -1,0 +1,28 @@
+event,node,start,end
+form start,,1603776914371,
+question,/aX3jZYTKdzp2C85VqatBQa/point,1603776914377,1603776925744
+question,/aX3jZYTKdzp2C85VqatBQa/Introduction/iset_select,1603776925754,1603776927128
+question,/aX3jZYTKdzp2C85VqatBQa/Introduction/contact,1603776927137,1603776934824
+question,/aX3jZYTKdzp2C85VqatBQa/head_hh/hh_sex,1603776934832,1603776935961
+question,/aX3jZYTKdzp2C85VqatBQa/head_hh/hh_age,1603776935968,1603776937661
+question,/aX3jZYTKdzp2C85VqatBQa/head_hh/hh_disability,1603776937669,1603776938823
+group questions,/aX3jZYTKdzp2C85VqatBQa/hh_roster,1603776938832,1603776957015
+question,/aX3jZYTKdzp2C85VqatBQa/protection/hh_sepration,1603776957057,1603776958325
+end screen,,1603776958333,1603776959598
+question,/aX3jZYTKdzp2C85VqatBQa/protection/hh_sepration,1603776959599,1603776961463
+question,/aX3jZYTKdzp2C85VqatBQa/protection/hh_breadwinner,1603776961474,1603776963419
+question,/aX3jZYTKdzp2C85VqatBQa/protection/hh_sepration,1603776963428,1603776964603
+end screen,,1603776964613,1603776972611
+question,/aX3jZYTKdzp2C85VqatBQa/protection/hh_sepration,1603776972612,1603777056608
+end screen,,1603777056640,1603777059112
+form save,,1603777059398,
+form exit,,1603777059399,
+form finalize,,1603777059399,
+form resume,,1603777062112,
+jump,,1603777062112,1603777069112
+question,/aX3jZYTKdzp2C85VqatBQa/protection/hh_sepration,1603777065900,1603777069112
+question,/aX3jZYTKdzp2C85VqatBQa/protection/hh_breadwinner,1603777069125,1603777070666
+end screen,,1603777070678,1603777072091
+form save,,1603777072310,
+form exit,,1603777072310,
+form finalize,,1603777072311,

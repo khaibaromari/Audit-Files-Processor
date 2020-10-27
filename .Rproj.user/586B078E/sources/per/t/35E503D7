@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1603774328655.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3643062587",
+    "id" : "35E503D7",
+    "lastKnownWriteTime" : 1603777328,
+    "last_content_update" : 1603777328906,
+    "path" : "D:/ACTED/Handy R Functions/audit_calculator/script.R",
+    "project_path" : "script.R",
+    "properties" : {
+        "cursorPosition" : "8,34",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
